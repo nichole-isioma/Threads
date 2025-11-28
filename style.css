@@ -7,7 +7,7 @@
 body{
     background-color: rgb(16, 16, 16);
     color: white;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .threads-img
 {max-width: 1250px;
